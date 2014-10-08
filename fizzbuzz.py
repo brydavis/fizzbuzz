@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+from sys import argv
+
 def fizzbuzz(top):
     for i in range(1,top + 1):
         if (i % 5 == 0) and (i % 3 == 0):
@@ -12,3 +14,4 @@ def fizzbuzz(top):
             print i
     return
 
+fizzbuzz(argv[1])

@@ -26,6 +26,7 @@ def fzzybzzy(top):
     
     return
 
+
 fizzbuzz(argv[1])
 fzzybzzy(argv[1])
 

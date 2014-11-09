@@ -15,3 +15,6 @@ function fizzbuzz () {
 		}
 	}
 }
+
+// TODO: add in process.args
+fizzbuzz()

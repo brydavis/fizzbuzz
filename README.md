@@ -3,7 +3,7 @@ FizzBuzz
 
 Yet another implementation of the FizzBuzz exercise.
 
-Works in JS, Node, and even Bash!
+Examples in Python, JS / Node, and Julia... all files also run in Bash!
 
 ----
 

@@ -1,9 +1,14 @@
 FizzBuzz
 ========
 
-Yet another implementation of the FizzBuzz exercise.
+Yet another implementation of FizzBuzz.
 
-Examples in Python, JS / Node, and Julia... all files also run in Bash!
+Languages included:
+- Python
+- JS / Node
+- Julia
+- Bash
+- Go
 
 ----
 

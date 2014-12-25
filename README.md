@@ -5,10 +5,11 @@ Yet another implementation of FizzBuzz.
 
 Languages included:
 - Python
-- JS / Node
+- JavaScript
 - Julia
 - Bash
 - Go
+- C
 
 ----
 

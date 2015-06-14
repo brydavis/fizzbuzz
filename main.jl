@@ -9,5 +9,4 @@ function fizzbuzz(top)
 	end
 end
 
-
 fizzbuzz(ARGS[1])
